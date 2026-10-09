@@ -118,20 +118,6 @@ Accomplished **Principal Software Engineer** with over **13 years of progressive
 | 🍎 [**apple-customer-systems-spa**](https://github.com/dgrubaxani/apple-customer-systems-spa) | `2017 - 2019` | React, Redux, React Router, Node.js API | Isomorphic SPA for Customer Systems division managing account services, tickets, and multi-device views. |
 | 🪟 [**enterprise-angular-portal**](https://github.com/dgrubaxani/enterprise-angular-portal) | `2016 - 2017` | Angular 2/4, TypeScript, RxJS, Jasmine | Scalable enterprise operations dashboard with UTC standardization utilities and modular services. |
 
----
-
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dgrubaxani&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgrubaxani&layout=compact&theme=radical&hide_border=true" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dgrubaxani&theme=radical&hide_border=true" width="97%" />
-
-</div>
 
 ---
 
